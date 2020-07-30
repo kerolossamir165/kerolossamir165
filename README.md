@@ -1,7 +1,7 @@
 # Hi , I'm kerolos samir
 
 
-I'm a Front-End developer who cares about every detail related to user interface ,currently interested CSS architecture,JS , React and also cares about accessibility and convert pretty designs and animations into code 
+I'm a self taught Front-End developer who cares about every detail related to user interface ,currently interested CSS architecture,JS , React and also cares about accessibility and convert pretty designs and animations into code 
 
 
 ### I'm currently looking for a front end job ✌️
