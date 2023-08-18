@@ -33,7 +33,7 @@
 </div>
 
 
-## Find me around the web 🌎: 
+## Find me around the web 🌎 : 
 - <div> 
   <a href="https://www.linkedin.com/in/kerolos-samir/"> <img align="left" alt="kerolos's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" />
   <div>Linked In</div>
