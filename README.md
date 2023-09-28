@@ -1,4 +1,5 @@
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">, I'm [Kerolos!](https://www.linkedin.com/in/kerolos-samir/)
+# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">
+# I'm [Kerolos!](https://www.linkedin.com/in/kerolos-samir/)
 
 - Software Engineer
 - I am passionate about Front-End, Web Performance, Javascript
